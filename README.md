@@ -31,9 +31,18 @@ Passionate Software Engineering graduate with a First Class Honours from Solent 
 - Data Analysis
 - Predictive Modeling
 
+### 🔬 Technology Research & Exploration
+- Investigating Emerging AI and Machine Learning Technologies
+- Exploring Advanced Cloud Computing Architectures
+- Diving into Cutting-edge IoT Innovations
+- Analyzing Scalable Microservices Design
+- Researching Next-generation Web Frameworks
+
+Constantly pushing the boundaries of technological innovation!
+
 ### 📫 Let's Connect
-- 💼 [LinkedIn Profile](https://www.linkedin.com/in/maciej-czerwonka-179b2b224)
-- 🐱 [GitHub Profile](https://github.com/MCoding90)
+- 💼 [LinkedIn](https://www.linkedin.com/in/maciej-czerwonka-179b2b224)
+- 🐱 [GitHub](https://github.com/MCoding90)
 - ✉️ czerwonkaster@gmail.com
 
 ### 🌱 Professional Highlights
